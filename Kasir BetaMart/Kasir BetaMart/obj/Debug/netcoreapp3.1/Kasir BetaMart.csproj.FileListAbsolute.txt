@@ -1,0 +1,39 @@
+D:\UKK\Kasir BetaMart\Kasir BetaMart\obj\Debug\netcoreapp3.1\Kasir BetaMart.csproj.AssemblyReference.cache
+D:\UKK\Kasir BetaMart\Kasir BetaMart\obj\Debug\netcoreapp3.1\Kasir_BetaMart.Form1.resources
+D:\UKK\Kasir BetaMart\Kasir BetaMart\obj\Debug\netcoreapp3.1\Kasir BetaMart.csproj.GenerateResource.cache
+D:\UKK\Kasir BetaMart\Kasir BetaMart\obj\Debug\netcoreapp3.1\Kasir BetaMart.GeneratedMSBuildEditorConfig.editorconfig
+D:\UKK\Kasir BetaMart\Kasir BetaMart\obj\Debug\netcoreapp3.1\Kasir BetaMart.AssemblyInfoInputs.cache
+D:\UKK\Kasir BetaMart\Kasir BetaMart\obj\Debug\netcoreapp3.1\Kasir BetaMart.AssemblyInfo.cs
+D:\UKK\Kasir BetaMart\Kasir BetaMart\obj\Debug\netcoreapp3.1\Kasir BetaMart.csproj.CoreCompileInputs.cache
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\Kasir BetaMart.exe
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\Kasir BetaMart.deps.json
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\Kasir BetaMart.runtimeconfig.json
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\Kasir BetaMart.runtimeconfig.dev.json
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\Kasir BetaMart.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\Kasir BetaMart.pdb
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\obj\Debug\netcoreapp3.1\Kasir BetaMart.dll
+D:\UKK\Kasir BetaMart\Kasir BetaMart\obj\Debug\netcoreapp3.1\Kasir BetaMart.pdb
+D:\UKK\Kasir BetaMart\Kasir BetaMart\obj\Debug\netcoreapp3.1\Kasir BetaMart.genruntimeconfig.cache
+D:\UKK\Kasir BetaMart\Kasir BetaMart\obj\Debug\netcoreapp3.1\Kasir_BetaMart.Properties.Resources.resources
